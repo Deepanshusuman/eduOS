@@ -82,3 +82,8 @@ This is an open, evolving project.
 MIT — Remix freely. Build the future you want to learn in.
 
 > "Subjects aren't walls. They're portals. Let's walk through them together."
+
+## Donate
+```
+3H5ucAQ9EALXSFA5MXd7Jx686CT2QEZArN
+```
