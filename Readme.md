@@ -85,5 +85,8 @@ MIT — Remix freely. Build the future you want to learn in.
 
 ## Donate
 ```
-3H5ucAQ9EALXSFA5MXd7Jx686CT2QEZArN
+Country: India
+Bank Name: State Bank of India
+Account Number: 37370400605
+IFSC: SBIN0006096
 ```
