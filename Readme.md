@@ -82,11 +82,3 @@ This is an open, evolving project.
 MIT — Remix freely. Build the future you want to learn in.
 
 > "Subjects aren't walls. They're portals. Let's walk through them together."
-
-## Donate
-```
-Country: India
-Bank Name: State Bank of India
-Account Number: 37370400605
-IFSC: SBIN0006096
-```
